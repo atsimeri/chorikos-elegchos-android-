@@ -1,1 +1,4 @@
-# chorikos-elegchos-android-
+# Χωρικός Έλεγχος Γεωτεμαχίου — Android
+
+Εκδόσεις της εφαρμογής Android του Topo Tools (topotools.xyz).
+Η εφαρμογή ελέγχει το `latest.json` και προτείνει μόνη της την ενημέρωση. Λειτουργεί μόνο με ενεργή άδεια.
